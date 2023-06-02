@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Assignment</title>
+    </head>
+    <header>
+        <h1>Sandeep Singh</h1>
+    </header>
+
+    <article>
+        <h2>About Me</h2>
+        <p>I am Sandeep Singh from Punjab,India.I have just completed my senior secondary education, and after completing my secondary education i have planned to move here for my further education.</p>
+        <p>Actually, i have keen interest in videography and photography, and I want to become a successful person by doing hardwork as well as fighting with all the challanges.</p>
+    </article>
+    <blockquote>
+        <p>pain is not just a painful experience, it is like a key of success to reach at our destination because without bearing this painful experience we cannot make our heart strong to fight with painful situations.</p>
+   <cite>Sandeep Singh</cite>
+    </blockquote>
+    <footer>
+        <p>&copy;2023 Sandeep Singh. All right reserved.</p>
+    </footer>
+
+</body>
+</html> 
